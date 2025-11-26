@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  m_GroupName: Music
+  m_Data:
+    m_SerializedData: []
+  m_GUID: de6bd0a4bf71db84e8bea99c379a1912
+  m_SerializeEntries:
+  - m_GUID: f3c0278c5709a4e4592acdf91151ef57
+    m_Address: "\u51AC\u5929\u4E0B\u96EA"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c784f00b1c14234c93a7182d03ad3dc
+    m_Address: "\u9E21\u53EB"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc55f68103b3024b95113d236c4a775
+    m_Address: "\u5347\u7EA7"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60cea3c9ecebd8349b292a41dbb48f3a
+    m_Address: "\u5431\u5431"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ffb06b30e733140b699688354583af
+    m_Address: "\u549A\u549A"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2745475a61ee2b4448377ae145d8750a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8f368eea4ad5df34ea23d554184ca7e8, type: 2}
+    - {fileID: 11400000, guid: 01e47c14924faa243bbc457c73a2c7eb, type: 2}
